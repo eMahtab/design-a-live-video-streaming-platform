@@ -21,4 +21,6 @@ The HLS and DASH ingestion protocols are also encrypted, like RTMPS. They also s
 
 
 # References :
-ByteByteGo : https://www.youtube.com/watch?v=7AMRfNKwuYo
+1. ByteByteGo : https://www.youtube.com/watch?v=7AMRfNKwuYo
+
+2. YouTube Live : https://developers.google.com/youtube/v3/live/guides/ingestion-protocol-comparison
