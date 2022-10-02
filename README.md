@@ -13,7 +13,9 @@ RTMPS is a secure extension to RTMP. RTMPS is a regular RTMP (RealTime Messaging
 The HLS and DASH ingestion protocols are also encrypted, like RTMPS. They also support codecs that RTMP and RTMPS do not. Next-generation video codecs such as VP9 and HEVC can offer much better compression relative to H.264, allowing users to either stream with higher quality for a given bitrate or stream with the same quality while using a lower bitrate, which could decrease buffering. This makes HLS or DASH ingestion a good choice for premium content that requires higher quality and higher resolution, albeit at a relatively higher latency. Note that HLS and DASH ingestion typically incur greater latency than RTMP because HLS and DASH are segment-based.
 
 
+## Live Streaming Platform Design :
 
+![Live Streaming Platform](live-streaming-platform.PNG?raw=true)
 
 
 
